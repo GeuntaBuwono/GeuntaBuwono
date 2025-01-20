@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Geunta Buwono!
 
-I'm a software emgomeer with a strong interest in building innovative and efficient solutions. I enjoy coding, learning new technologies, and contributing to open-source projects. Welcome to my GitHub profile!
+I'm a software engineer interested in building innovative and efficient solutions. I enjoy coding, learning new technologies, and contributing to open-source projects. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
+- **Languages:** Python, JavaScript, Typescript
+- **Framework/Library:** React, React Native, NextJS
+- **Databases:** PostgreSQL
+- **DevOps:** Docker, GitHub Actions
 - **Others:** Linux, REST APIs, GraphQL
 
 ## 🌱 Currently Learning
