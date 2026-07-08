@@ -85,21 +85,6 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeuntaBuwono&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=GeuntaBuwono&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeuntaBuwono&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-
-</div>
-
----
-
 ### 🌱 Currently
 
 - 🔭 Building **Metafire** — AI stock analysis for the Indonesian market
