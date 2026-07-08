@@ -54,23 +54,36 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&labelColor=000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+![better-auth](https://img.shields.io/badge/better--auth-6366F1?style=flat-square)
+![Polar.sh](https://img.shields.io/badge/Polar.sh-6366F1?style=flat-square)
 
 **Frontend**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square)
 ![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+![assistant-ui](https://img.shields.io/badge/assistant--ui-000000?style=flat-square)
 ![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square)
 
 **AI Engineering**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-6366F1?style=flat-square)
+
+**Build & Testing**
+
+![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square)
 
 **Infra & DevOps**
 
@@ -79,9 +92,8 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
 ![Dokploy](https://img.shields.io/badge/Dokploy-6366F1?style=flat-square)
 ![Dockge](https://img.shields.io/badge/Dockge-6366F1?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=flat-square)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square)
 
 ---
 
