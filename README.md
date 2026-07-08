@@ -13,7 +13,7 @@ I'm a **Software Engineer** with **9 years of experience** building scalable fro
 
 I've led high-performing frontend teams across the **React ecosystem** — Next.js, React Native, and design systems — and now channel that experience into **applied AI**: LLM-powered applications, agents, and intelligent automation.
 
-Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](https://github.com/GeuntaBuwono/metafire)**, an AI-powered Indonesian stock market analyst.
+Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](https://metafire.metasora.com)**, a production multi-step agentic AI analyst for the Indonesia Stock Exchange.
 
 ---
 
@@ -23,9 +23,9 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
   <tr>
     <td width="50%" align="center">
       <h3>🔥 Metafire</h3>
-      <p><b>AI-powered Indonesian stock market analyst</b></p>
-      <p>LLM-driven analysis of the IHSG — combining bandarmology scraping, market data, and AI reasoning to surface actionable insights for Indonesian retail investors.</p>
-      <sub>TypeScript · LLMs · Playwright</sub>
+      <p><b>Multi-step agentic AI stock analyst</b></p>
+      <p>Production AI analyst for the Indonesia Stock Exchange (IDX). 25+ specialized tools — bandarmology, broker tracking, market structure, and fundamental analysis — within a single streaming conversation.</p>
+      <sub>TypeScript · Hono · Drizzle · Vercel AI SDK · <a href="https://metafire.metasora.com">metafire.metasora.com</a></sub>
     </td>
     <td width="50%" align="center">
       <h3>🌐 Metasora</h3>
