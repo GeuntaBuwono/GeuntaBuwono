@@ -24,14 +24,14 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
     <td width="50%" align="center">
       <h3>🔥 Metafire</h3>
       <p><b>Multi-step agentic AI stock analyst</b></p>
-      <p>Production AI analyst for the Indonesia Stock Exchange (IDX). 25+ specialized tools — bandarmology, broker tracking, market structure, and fundamental analysis — within a single streaming conversation.</p>
+      <p>Production AI analyst for the Indonesia Stock Exchange (IDX). 25+ specialized tools — bandarmology, broker tracking, market structure, and fundamental analysis — within a single streaming conversation. Dual-provider LLM failover, conversation compaction, and metered token billing.</p>
       <sub>TypeScript · Hono · Drizzle · Vercel AI SDK · <a href="https://metafire.metasora.com">metafire.metasora.com</a></sub>
     </td>
     <td width="50%" align="center">
-      <h3>🌐 Metasora</h3>
-      <p><b>Personal blog & engineering notes</b></p>
-      <p>My corner of the internet — writing about the frontend-to-AI pivot, software craftsmanship, and building in public.</p>
-      <sub>Astro · Cloudflare Workers · <a href="https://metasora.com">metasora.com</a></sub>
+      <h3>🌸 TiaraFit</h3>
+      <p><b>AI-powered wellness companion for women</b></p>
+      <p>Wellness SaaS with an AI fitness assistant ("Tiara") for cycle-synced strength training, nutrition tracking, and self-care. Edge-first architecture with 9-tool AI integration and streaming responses.</p>
+      <sub>Cloudflare Workers · Vercel AI SDK · R2 · <a href="https://tiarafit.com">tiarafit.com</a></sub>
     </td>
   </tr>
 </table>
