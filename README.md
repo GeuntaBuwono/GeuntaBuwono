@@ -36,15 +36,15 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🤖 Hermes</h3>
-      <p><b>Self-hosted MCP AI agent gateway</b></p>
-      <p>A persistent Python agent on Proxmox LXC — wired to GitHub, filesystem, and z-ai via MCP servers. Orchestrates Metafire's entire data pipeline (orderbook, news, dividends) and automates PR workflows with profile-based configs.</p>
+      <h3>🤖 Hermes <sub><sup>current</sup></sub></h3>
+      <p><b>Self-improving AI agent gateway</b></p>
+      <p>Migrated from OpenClaw to <a href="https://hermes-agent.nousresearch.com/">Hermes</a> by Nous Research — a self-improving agent with skill creation, cross-session memory, and subagent delegation. Runs on Proxmox LXC, wired to GitHub, filesystem, and z-ai via MCP servers. Orchestrates Metafire's entire data pipeline and automates PR workflows.</p>
       <sub>Python · MCP · PM2 · Self-hosted LLM Router</sub>
     </td>
     <td width="50%" align="center">
-      <h3>🦾 OpenClaw</h3>
-      <p><b>Homelab AI agent with a brain</b></p>
-      <p>Long-running AI agent on Proxmox LXC, connected to Telegram and Discord. Manages my blog, monitors servers, automates GitHub workflows, and handles the full coding lifecycle from local dev to production deploy.</p>
+      <h3>🦾 OpenClaw <sub><sup>→ Hermes</sup></sub></h3>
+      <p><b>My first homelab AI agent</b></p>
+      <p>The predecessor — a long-running AI agent on Proxmox LXC connected to Telegram and Discord. Managed my blog, monitored servers, and automated the full coding lifecycle. Taught me what self-hosted agents need; replaced by Hermes for its learning loop and multi-platform gateway.</p>
       <sub>Self-hosted · Claude Code · <a href="https://github.com/openclaw/openclaw">github.com/openclaw</a></sub>
     </td>
   </tr>
