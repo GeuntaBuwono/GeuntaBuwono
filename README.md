@@ -28,7 +28,7 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
       <sub>TypeScript · Hono · Drizzle · Vercel AI SDK · <a href="https://metafire.metasora.com">metafire.metasora.com</a></sub>
     </td>
     <td width="50%" align="center">
-      <h3>🌸 TiaraFit</h3>
+      <h3>💪 TiaraFit</h3>
       <p><b>AI-powered wellness companion for women</b></p>
       <p>Wellness SaaS with an AI fitness assistant ("Tiara") for cycle-synced strength training, nutrition tracking, and self-care. Edge-first architecture with 9-tool AI integration and streaming responses.</p>
       <sub>Cloudflare Workers · Vercel AI SDK · R2 · <a href="https://tiarafit.com">tiarafit.com</a></sub>
