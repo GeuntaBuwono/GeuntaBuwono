@@ -1,30 +1,157 @@
-# 👋 Hello, I'm Geunta Buwono!
+<div align="center">
 
-I'm a software engineer interested in building innovative and efficient solutions. I enjoy coding, learning new technologies, and contributing to open-source projects. Welcome to my GitHub profile!
+<!-- Header typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Geunta+Buwono;Software+%E2%86%92+AI+Engineer;Building+Metafire+%F0%9F%94%A5;9+years+frontend+%E2%86%92+AI+pivot" alt="Typing SVG" />
 
-## 🔧 Technologies & Tools
+</div>
 
-- **Languages:** Python, JavaScript, Typescript
-- **Framework/Library:** React, React Native, NextJS
-- **Databases:** PostgreSQL
-- **DevOps:** Docker, GitHub Actions
-- **Others:** Linux, REST APIs, GraphQL
+---
 
-## 🌱 Currently Learning
+### 👨💻 About Me
 
-- Advanced Machine Learning Techniques
+I'm a **Software Engineer** with **9 years of experience** building scalable frontend systems, now **pivoting into AI Engineering**.
 
-## 🚀 Projects
+I've led high-performing frontend teams across the **React ecosystem** — Next.js, React Native, and design systems — and now channel that experience into **applied AI**: LLM-powered applications, agents, and intelligent automation.
 
-<!-- - [Project 1](https://github.com/GeuntaBuwono/Project1): Brief description of Project 1.
-- [Project 2](https://github.com/GeuntaBuwono/Project2): Brief description of Project 2.
-- [Project 3](https://github.com/GeuntaBuwono/Project3): Brief description of Project 3. -->
+Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](https://github.com/GeuntaBuwono/metafire)**, an AI-powered Indonesian stock market analyst.
 
-## 📫 How to Reach Me
+---
 
-- **LinkedIn:** [Geunta Buwono](https://www.linkedin.com/in/geuntabuwono/)
-- **Twitter:** [@GeuntaBuwono](https://twitter.com/GeuntaBuwono)
+### 🚀 Products
 
-## ⚡ Fun Fact
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 Metafire</h3>
+      <p><b>AI-powered Indonesian stock market analyst</b></p>
+      <p>LLM-driven analysis of the IHSG — combining bandarmology scraping, market data, and AI reasoning to surface actionable insights for Indonesian retail investors.</p>
+      <sub>TypeScript · LLMs · Playwright</sub>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Metasora</h3>
+      <p><b>Personal blog & engineering notes</b></p>
+      <p>My corner of the internet — writing about the frontend-to-AI pivot, software craftsmanship, and building in public.</p>
+      <sub>Astro · Cloudflare Workers · <a href="https://metasora.com">metasora.com</a></sub>
+    </td>
+  </tr>
+</table>
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Runtime**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square)
+<img src="https://img.shields.io/static/v1?label=Node.js&message=runtime&color=339933&style=flat-square" alt="Node.js" />
+
+**Backend**
+
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&labelColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
+
+**Frontend**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square)
+![Tailwind CSS 4](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square)
+
+**AI Engineering**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-6366F1?style=flat-square)
+
+**Infra & DevOps**
+
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square)
+![Dokploy](https://img.shields.io/badge/Dokploy-6366F1?style=flat-square)
+![Dockge](https://img.shields.io/badge/Dockge-6366F1?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=flat-square)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GeuntaBuwono&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=GeuntaBuwono&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GeuntaBuwono&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🌱 Currently
+
+- 🔭 Building **Metafire** — AI stock analysis for the Indonesian market
+- 🌱 Deep-diving into **LLM agents**, RAG, and agentic workflows
+- ✍️ Writing about the **frontend → AI engineering** transition at **[metasora.com](https://metasora.com)**
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeuntaBuwono&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### 📝 Latest from Metasora
+
+<!-- BLOG-POST-LIST:START -->
+- [Why Bun Replaced Node.js, npm, and pnpm in My Daily Stack](https://metasora.com/blog/bun-replacing-nodejs-pnpm/)
+- [Streaming LLM Responses with SSE on Cloudflare Workers](https://metasora.com/blog/streaming-llm-responses-sse-cloudflare-workers/)
+- [Streaming LLM Responses with SSE (and Why EventSource Will Bite You)](https://metasora.com/blog/sse-streaming-llm-responses/)
+- [Web Performance Isn't Optional: Optimizing Core Web Vitals on Static Sites](https://metasora.com/blog/web-performance-core-web-vitals-static-sites/)
+- [Taming the Monorepo: Full-Stack TypeScript Projects with Turborepo](https://metasora.com/blog/turborepo-typescript-monorepo/)
+- [Why I Replaced ESLint + Prettier with Biome (and What Broke Along the Way)](https://metasora.com/blog/biome-replaces-eslint-prettier/)
+- [Building TiaraFit: A Wellness Platform Designed for Women](https://metasora.com/blog/building-tiarafit-wellness-platform/)
+<!-- BLOG-POST-LIST:END -->
+
+> Auto-updates daily via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · Full archive at **[metasora.com](https://metasora.com)**
+
+---
+
+### ✍️ I Write About
+
+`Self-Hosting` `Cloudflare Workers` `Proxmox Homelab` `Dokploy` `AI Agents` `Claude Code` `LLM Streaming` `React Native` `TypeScript` `Web Performance` `Edge Databases` `Monorepos`
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://metasora.com"><img src="https://img.shields.io/badge/Website-metasora.com-6366F1?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/geuntabuwono/"><img src="https://img.shields.io/badge/LinkedIn-Geunta_Buwono-0A66C2?style=for-the-badge" /></a>
+  <a href="https://twitter.com/BangGent"><img src="https://img.shields.io/badge/X-@BangGent-000000?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeuntaBuwono&label=Profile+Visitors&color=6366f1&style=flat-square" alt="Profile views" />
+</p>
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/GeuntaBuwono">GeuntaBuwono</a> — always shipping.</sub>
+</div>

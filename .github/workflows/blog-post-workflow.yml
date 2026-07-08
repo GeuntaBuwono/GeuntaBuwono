@@ -1,0 +1,28 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 7
+          feed_list: "https://metasora.com/rss.xml"
+          readme_path: "README.md"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: "docs: update latest blog posts"
