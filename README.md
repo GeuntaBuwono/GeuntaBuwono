@@ -34,18 +34,25 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
       <sub>Astro · Cloudflare Workers · <a href="https://metasora.com">metasora.com</a></sub>
     </td>
   </tr>
+</table>
+
+---
+
+### 🤖 My AI Copilot & Assistant
+
+I run a self-hosted AI agent as my daily copilot — handling coding tasks, server ops, GitHub workflows, and data pipelines while I focus on architecture and review.
+
+<table>
   <tr>
-    <td width="50%" align="center">
-      <h3>🤖 Hermes <sub><sup>current</sup></sub></h3>
-      <p><b>Self-improving AI agent gateway</b></p>
-      <p>Migrated from OpenClaw to <a href="https://hermes-agent.nousresearch.com/">Hermes</a> by Nous Research — a self-improving agent with skill creation, cross-session memory, and subagent delegation. Runs on Proxmox LXC, wired to GitHub, filesystem, and z-ai via MCP servers. Orchestrates Metafire's entire data pipeline and automates PR workflows.</p>
+    <td width="50%" align="left">
+      <h3>🤖 Hermes <sub><sup>(current)</sup></sub></h3>
+      <p>Self-hosted <a href="https://hermes-agent.nousresearch.com/">Hermes</a> agent by Nous Research — self-improving, with skill creation, cross-session memory, and subagent delegation. Lives on a Proxmox LXC container, wired to GitHub, filesystem, and z-ai via MCP servers. Orchestates Metafire's data pipeline and automates my PR workflows.</p>
       <sub>Python · MCP · PM2 · Self-hosted LLM Router</sub>
     </td>
-    <td width="50%" align="center">
-      <h3>🦾 OpenClaw <sub><sup>→ Hermes</sup></sub></h3>
-      <p><b>My first homelab AI agent</b></p>
-      <p>The predecessor — a long-running AI agent on Proxmox LXC connected to Telegram and Discord. Managed my blog, monitored servers, and automated the full coding lifecycle. Taught me what self-hosted agents need; replaced by Hermes for its learning loop and multi-platform gateway.</p>
-      <sub>Self-hosted · Claude Code · <a href="https://github.com/openclaw/openclaw">github.com/openclaw</a></sub>
+    <td width="50%" align="left">
+      <h3>🦾 OpenClaw <sub><sup>(→ Hermes)</sup></sub></h3>
+      <p>My first homelab AI agent — <a href="https://github.com/openclaw/openclaw">OpenClaw</a> on Proxmox LXC, connected to Telegram and Discord. Managed my blog, monitored servers, and handled the full coding lifecycle. Taught me what self-hosted agents need; replaced by Hermes for its learning loop and multi-platform gateway.</p>
+      <sub>Self-hosted · Claude Code · Telegram · Discord</sub>
     </td>
   </tr>
 </table>
