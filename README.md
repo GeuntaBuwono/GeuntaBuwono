@@ -127,16 +127,6 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeuntaBuwono&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
 ### 📝 Latest from Metasora
 
 <!-- BLOG-POST-LIST:START -->
