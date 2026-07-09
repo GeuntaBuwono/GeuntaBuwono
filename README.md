@@ -140,13 +140,13 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 ### 📝 Latest from Metasora
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Step Agentic Loops with the Vercel AI SDK](https://metasora.com/blog/multi-step-agentic-loops-vercel-ai-sdk/)
 - [Why Bun Replaced Node.js, npm, and pnpm in My Daily Stack](https://metasora.com/blog/bun-replacing-nodejs-pnpm/)
 - [Streaming LLM Responses with SSE on Cloudflare Workers](https://metasora.com/blog/streaming-llm-responses-sse-cloudflare-workers/)
-- [Streaming LLM Responses with SSE (and Why EventSource Will Bite You)](https://metasora.com/blog/sse-streaming-llm-responses/)
-- [Web Performance Isn't Optional: Optimizing Core Web Vitals on Static Sites](https://metasora.com/blog/web-performance-core-web-vitals-static-sites/)
-- [Taming the Monorepo: Full-Stack TypeScript Projects with Turborepo](https://metasora.com/blog/turborepo-typescript-monorepo/)
-- [Why I Replaced ESLint + Prettier with Biome (and What Broke Along the Way)](https://metasora.com/blog/biome-replaces-eslint-prettier/)
-- [Building TiaraFit: A Wellness Platform Designed for Women](https://metasora.com/blog/building-tiarafit-wellness-platform/)
+- [Streaming LLM Responses with SSE &lpar;and Why EventSource Will Bite You&rpar;](https://metasora.com/blog/sse-streaming-llm-responses/)
+- [Git Worktrees: How I Work on Five Things at Once Without Losing My Mind](https://metasora.com/blog/git-worktree-parallel-development/)
+- [Web Performance Isn&#39;t Optional: Optimizing Core Web Vitals on Static Sites](https://metasora.com/blog/web-performance-core-web-vitals-static-sites/)
+- [Edge-First Database Patterns: Running LibSQL on Cloudflare Workers](https://metasora.com/blog/edge-database-patterns-turso-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updates daily via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · Full archive at **[metasora.com](https://metasora.com)**
