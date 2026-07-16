@@ -130,13 +130,13 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 ### 📝 Latest from Metasora
 
 <!-- BLOG-POST-LIST:START -->
+- [Rate Limiting at the Edge: Four Algorithms, Real Code, and Why Your 429s Are Probably Wrong](https://metasora.com/blog/rate-limiting-at-the-edge/)
 - [Stop Trusting process.env: Type-Safe Environment Variables in TypeScript](https://metasora.com/blog/type-safe-env-variables-zod/)
 - [Killing Passwords With Passkeys: A Pragmatic WebAuthn Implementation](https://metasora.com/blog/passkeys-webauthn-authentication/)
 - [View Transitions in Astro: Smooth Page Navigation Without a SPA Framework](https://metasora.com/blog/astro-view-transitions-practical/)
 - [Why Zod Is Non-Negotiable in My TypeScript APIs](https://metasora.com/blog/zod-runtime-validation-typescript/)
 - [Backups Are Easy. Restores Are the Test: My Self-Hosted Backup Strategy](https://metasora.com/blog/self-hosted-backups-restic/)
 - [Multi-Step Agentic Loops with the Vercel AI SDK](https://metasora.com/blog/multi-step-agentic-loops-vercel-ai-sdk/)
-- [Graceful Shutdown: Stopping Servers Without Dropping Requests](https://metasora.com/blog/graceful-shutdown-nodejs-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updates daily via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · Full archive at **[metasora.com](https://metasora.com)**
