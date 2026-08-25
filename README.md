@@ -130,13 +130,13 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 ### 📝 Latest from Metasora
 
 <!-- BLOG-POST-LIST:START -->
+- [DB-Backed Pricing, Streaming Race Conditions, and Search Fallbacks](https://metasora.com/blog/db-backed-pricing-streaming-race-conditions-search-fallbacks/)
+- [Resolving Real Client IPs Behind Cloudflare and Traefik](https://metasora.com/blog/resolving-real-ips-behind-cloudflare-traefik/)
 - [Context Engineering: Writing Instructions AI Coding Agents Actually Follow](https://metasora.com/blog/context-engineering-ai-coding-agents/)
 - [Stop Using OFFSET for Pagination: Why Cursor Pagination Scales and OFFSET Falls Over](https://metasora.com/blog/cursor-pagination-vs-offset/)
 - [OpenTelemetry in Practice: What Distributed Tracing Actually Reveals](https://metasora.com/blog/opentelemetry-distributed-tracing-in-practice/)
 - [Rate Limiting at the Edge: Four Algorithms, Real Code, and Why Your 429s Are Probably Wrong](https://metasora.com/blog/rate-limiting-at-the-edge/)
 - [Stop Trusting process.env: Type-Safe Environment Variables in TypeScript](https://metasora.com/blog/type-safe-env-variables-zod/)
-- [Killing Passwords With Passkeys: A Pragmatic WebAuthn Implementation](https://metasora.com/blog/passkeys-webauthn-authentication/)
-- [View Transitions in Astro: Smooth Page Navigation Without a SPA Framework](https://metasora.com/blog/astro-view-transitions-practical/)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updates daily via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · Full archive at **[metasora.com](https://metasora.com)**
