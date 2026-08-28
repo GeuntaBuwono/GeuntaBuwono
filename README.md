@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Geunta+Buwono;Software+%E2%86%92+AI+Engineer;Building+Metafire+%F0%9F%94%A5;9+years+frontend+%E2%86%92+AI+pivot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Geunta+Buwono;Software+%E2%86%92+AI+Engineer;Building+AI+Stock+Analyst+%F0%9F%93%88;9+years+frontend+%E2%86%92+AI+pivot" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +13,7 @@ I'm a **Software Engineer** with **9 years of experience** building scalable fro
 
 I've led high-performing frontend teams across the **React ecosystem** — Next.js, React Native, and design systems — and now channel that experience into **applied AI**: LLM-powered applications, agents, and intelligent automation.
 
-Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](https://metafire.metasora.com)**, a production multi-step agentic AI analyst for the Indonesia Stock Exchange.
+Based in **Jakarta, Indonesia** 🇮🇩 · Currently building an **AI-powered stock market analyst** for the Indonesia Stock Exchange.
 
 ---
 
@@ -22,10 +22,10 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building **[Metafire](http
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🔥 Metafire</h3>
-      <p><b>Multi-step agentic AI stock analyst</b></p>
-      <p>Production AI analyst for the Indonesia Stock Exchange (IDX). 25+ specialized tools — bandarmology, broker tracking, market structure, and fundamental analysis — within a single streaming conversation. Dual-provider LLM failover, conversation compaction, and metered token billing.</p>
-      <sub>TypeScript · Hono · Drizzle · Vercel AI SDK · <a href="https://metafire.metasora.com">metafire.metasora.com</a></sub>
+      <h3>📈 AI Stock Analyst</h3>
+      <p><b>AI-powered Indonesian stock market analyst</b></p>
+      <p>Chat with an AI agent that analyzes IDX stocks using bandarmology data, broker activity, technical indicators, and trading signals. Monorepo with Hono API, React 19 app, and Astro marketing site; Google OAuth, token-metered billing via Midtrans, and self-hosted LLM routing.</p>
+      <sub>TypeScript · Bun · Hono · Drizzle · React 19</sub>
     </td>
     <td width="50%" align="center">
       <h3>💪 TiaraFit</h3>
@@ -46,7 +46,7 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
   <tr>
     <td width="50%" align="left">
       <h3>🤖 Hermes <sub><sup>(current)</sup></sub></h3>
-      <p>Self-hosted <a href="https://hermes-agent.nousresearch.com/">Hermes</a> agent by Nous Research — self-improving, with skill creation, cross-session memory, and subagent delegation. Lives on a Proxmox LXC container, wired to GitHub, filesystem, and z-ai via MCP servers. Orchestates Metafire's data pipeline and automates my PR workflows.</p>
+      <p>Self-hosted <a href="https://hermes-agent.nousresearch.com/">Hermes</a> agent by Nous Research — self-improving, with skill creation, cross-session memory, and subagent delegation. Lives on a Proxmox LXC container, wired to GitHub, filesystem, and z-ai via MCP servers. Orchestates the stock analyst platform's data pipeline and automates my PR workflows.</p>
       <sub>Python · MCP · PM2 · Self-hosted LLM Router</sub>
     </td>
     <td width="50%" align="left">
@@ -121,7 +121,7 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 
 ### 🌱 Currently
 
-- 🔭 Building **Metafire** — AI stock analysis for the Indonesian market
+- 🔭 Building an **AI stock analyst** for the Indonesian market
 - 🌱 Deep-diving into **LLM agents**, RAG, and agentic workflows
 - ✍️ Writing about the **frontend → AI engineering** transition at **[metasora.com](https://metasora.com)**
 
