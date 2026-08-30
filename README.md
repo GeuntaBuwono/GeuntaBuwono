@@ -31,7 +31,7 @@ Based in **Jakarta, Indonesia** 🇮🇩 · Currently building an **AI-powered s
       <h3>💪 TiaraFit</h3>
       <p><b>AI-powered wellness companion for women</b></p>
       <p>Wellness SaaS with an AI fitness assistant ("Tiara") for cycle-synced strength training, nutrition tracking, and self-care. Edge-first architecture with 9-tool AI integration and streaming responses.</p>
-      <sub>Cloudflare Workers · Vercel AI SDK · R2 · <a href="https://tiarafit.com">tiarafit.com</a></sub>
+      <sub>Cloudflare Workers · Vercel AI SDK · <a href="https://tiarafit.com">tiarafit.com</a></sub>
     </td>
   </tr>
 </table>
