@@ -130,13 +130,13 @@ I run a self-hosted AI agent as my daily copilot — handling coding tasks, serv
 ### 📝 Latest from Metasora
 
 <!-- BLOG-POST-LIST:START -->
+- [Mid-Stream Model Fallback: When Your AI Streaming API Falls Over and You Need to Catch It Without the User Noticing](https://metasora.com/blog/mid-stream-model-fallback-streaming-api/)
 - [Observability for AI Agents: Langfuse, OpenTelemetry, and Sentry](https://metasora.com/blog/ai-agent-observability-langfuse-sentry/)
 - [Bun + Turborepo Monorepo in Practice](https://metasora.com/blog/bun-turborepo-monorepo-in-practice/)
 - [DB-Backed Pricing, Streaming Race Conditions, and Search Fallbacks](https://metasora.com/blog/db-backed-pricing-streaming-race-conditions-search-fallbacks/)
 - [Building a Multi-Provider AI Agent with Vercel AI SDK](https://metasora.com/blog/multi-provider-ai-agent-vercel-ai-sdk/)
 - [Building a Production AI Chat UI with React 19, TanStack, and assistant-ui](https://metasora.com/blog/react-tanstack-assistant-ui-ai-chat/)
 - [Resolving Real Client IPs Behind Cloudflare and Traefik](https://metasora.com/blog/resolving-real-ips-behind-cloudflare-traefik/)
-- [Structuring 30+ Tools in a Production AI Agent](https://metasora.com/blog/structuring-30-tools-ai-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 > Auto-updates daily via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) · Full archive at **[metasora.com](https://metasora.com)**
